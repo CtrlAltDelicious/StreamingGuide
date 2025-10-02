@@ -2,11 +2,10 @@
 ![Landing Page](media/1_Landing_Page_&_Sources_Search_Upscaled.png)
 
 ### 1.1 Ultima Beta - Home Page Scrolling
-<video src="media/2. Home Screen — Ultima Beta_tutorial.mp4" autoplay loop muted playsinline width="600"></video>
+<video src="media/2_Home_Screen_Ultima_Beta_tutorial.mp4" autoplay loop muted playsinline width="600"></video>
 
 ### 1.2. Home Page - StreamPlay - Source Search
 <video src="media/3_Source_Search_StreamPlay_tutorial.mp4" autoplay loop muted playsinline width="600"></video>
-
 
 ### 1.3. Home Page - StreamPlay - Source Search
 <video src="media/4_How_To_Change_Source Ranking_tutorial.mp4" autoplay loop muted playsinline width="600"></video>
